@@ -2,8 +2,6 @@
 <html>
 <head>
   <h1>Bem Vindo!!</h1>
-<style>
-</style>
 </head>
 <body>
 <h3>Aqui está um pouco do meu desemvolvimento e trabalho.</h3>
