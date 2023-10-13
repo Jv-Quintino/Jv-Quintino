@@ -3,11 +3,6 @@
 <head>
   <h1>Bem Vindo!!</h1>
 <style>
-  .link-with-arrow::before {
-    content: "\2192"; 
-    font-size: 2.5em;
-    margin-left: 5px; 
-  }
 </style>
 </head>
 <body>
