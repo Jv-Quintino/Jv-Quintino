@@ -8,5 +8,7 @@
   <a class="link-with-arrow" href="https://jv-quintino.github.io/jv/">Meu Portfólio</a>
   <p></p>
    <a class="link-with-arrow" href="https://jv-quintino.github.io/App-previsao-tempo/">App de previsão do tempo e clima</a>
+  <p></p>
+   <a class="link-with-arrow" href="https://jv-quintino.github.io/profile_card/">Cartão de perfil</a>
 </body>
 </html>
