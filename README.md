@@ -11,6 +11,6 @@
   <p></p>
    <a class="link-with-arrow" href="https://jv-quintino.github.io/profile_card/">Cartão de perfil</a>
   <p></p>
-   <a class="link-with-arrow" href="https://jv-quintino.github.io/Internet_speed_test/">Teste de velocidade Iternet</a>
+   <a class="link-with-arrow" href="https://jv-quintino.github.io/Internet_speed_test/">Teste de velocidade Internet</a>
 </body>
 </html>
