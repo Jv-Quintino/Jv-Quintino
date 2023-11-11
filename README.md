@@ -10,5 +10,7 @@
    <a class="link-with-arrow" href="https://jv-quintino.github.io/App-previsao-tempo/">App de previsão do tempo e clima</a>
   <p></p>
    <a class="link-with-arrow" href="https://jv-quintino.github.io/profile_card/">Cartão de perfil</a>
+  <p></p>
+   <a class="link-with-arrow" href="https://jv-quintino.github.io/Internet_speed_test/">Teste de velocidade Iternet</a>
 </body>
 </html>
